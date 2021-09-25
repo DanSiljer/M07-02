@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica;
+}
+.header {
+    background-color: #0984e3; /* Altera a cor de fundo */
+    padding: 3rem; /* Adiciona um espaçamento interno */
+    margin: 0.5rem; /* Adiciona um espaçamento externo */
+    color: white; /* Cor do texto */
+    text-align: center; /* Alinhamento dos itens no centro da tela */
+  }
+  h1 {
+    padding-bottom: 3rem;
+  }
